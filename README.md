@@ -14,8 +14,5 @@ Run npm install, then npm run dev, and open http://localhost:5173
 - Cache: repeated searches are served from memory
 - memo: used only on the results list since the page re-renders on every keystroke
 
-## Notes
-
-- The FDA API returns 404 when nothing matches, so I show "No results found" instead of an error
 
 - Live URL : https://medibuddy-assign-final1.onrender.com
